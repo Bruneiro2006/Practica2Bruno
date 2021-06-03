@@ -9,7 +9,7 @@ int main()
   int numero2;
  
   count << "ingrese el primer numero: ";
-  cin >> numero2;
+  cin >> numero1;
   
   count << "ingrese el segundo numero: ";
   cin >> numero2;
